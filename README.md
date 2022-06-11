@@ -3,4 +3,5 @@ TR : kullanmak için python kurulu olması lazım. pythonu hazırladıktan sonra
 Her Güncellemede haze dumperin glow ayarlarını güncellemeniz gerekmektedir. aksi taktirde hile çalışmaz
 
 EN : You must have python installed to use it. After preparing the python, all you have to do is paste the cheat file (ESP.py) from the local disk to the users section. Then you can activate the cheat by starting cmd as administrator and typing python ESP.py
+
 just update offsets from haze dumper
